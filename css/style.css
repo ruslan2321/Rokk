@@ -1,0 +1,312 @@
+body{
+    background: rgb(0,0,0);
+    background: linear-gradient(113.82deg, #000000 0%, #1A1A1A 96.93%);
+    overflow-x:hidden ;
+    overflow-y: hidden;
+}
+.albums-bord{
+    margin: 0;
+    padding: 0;
+}
+p{
+    color: #656565;
+    position: relative;
+    left: 50px;
+    font-family: 'Roboto',  sans-serif;
+    letter-spacing: 2px;
+    font-size: 17px;
+}
+
+.al-bord1{
+    width: 200px;
+    height: 236px;
+    background-color: rgba(39, 39, 39, 0.731);
+    position: relative;
+    left: 17%;
+    bottom: 0px;
+    margin: 0px;
+    border-radius:20px ;
+}
+.al-bord2{
+    width: 200px;
+    height: 236px;
+    background-color: rgba(39, 39, 39, 0.731);
+    position: relative;
+    left: 35%;
+    bottom: 230px;
+    border-radius:20px ;
+}
+.al-bord3{
+    width: 200px;
+    height: 236px;
+    background-color: rgba(39, 39, 39, 0.731);
+    position: relative;
+    left: 53%;
+    bottom: 460px;
+    border-radius:20px ;
+}
+.al-bord4{
+    width: 200px;
+    height: 236px;
+    background-color: rgba(39, 39, 39, 0.731);
+    position: relative;
+    left: 71%;
+    bottom: 690px;
+    border-radius:20px ;
+}
+.music{
+    position: relative;
+    left: 17%;
+    bottom:1665px ;
+}
+.title-music>p{
+    display: inline-flex;
+    color: white;
+}
+.title-music{
+    word-spacing: 112px;
+}
+.music-list{
+    word-spacing: 100px;
+    text-align: left;
+}
+#footer{
+    position:relative;
+    right: 20%;
+    top: 100px;
+    word-spacing: 6px;
+    justify-items: center;
+    font-weight: 500;
+    font-size: 16px;
+    margin: auto;
+}
+#ab{
+    bottom: 200px;   
+    font-size: 20px;
+}
+#show{
+    position: relative;
+    top: 20px;
+    left: 26%;
+    word-spacing: 6px;
+    background-color: #1A1A1A;
+    border-radius: 10px;
+    height: 22px;
+    padding: 6px 6px;
+    line-height: 27px;
+}
+#footer>p{
+    position: relative;
+    color: white;
+    width: 780px;
+    position: relative;
+    line-height: 28px;
+    justify-items: center;
+    margin: auto;
+    right: 20%;
+    top: 700px;
+}
+.text-footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.music-list>p{
+    position: relative;
+    left: 47px;
+    line-height: 1px;
+    color: white;
+    width: 50%;
+    height: 1px;
+}
+.music-time{
+    position: relative;
+    left: 20%;
+}
+#time{
+    position: relative;
+    left: 39%;
+    bottom: 20px;
+    line-height: 0px;
+}
+.Popular{
+    position: relative;
+    bottom: 1618px;
+    left: 19%;
+    color: white;
+}
+.play-all{
+    font-family: 'Montserrat', sans-serif;
+    padding: 6px 11px;
+    font-size: 12px;
+    position: relative;
+    bottom: 1660px;
+    color:rgb(0, 0, 0);
+    background-color: #FF8202;
+    border-radius: 8px;
+    width: 61px;
+    height: 16px;
+    left: 27%;
+}
+.albums{
+    color: white;
+    position: relative;
+    left: 18%;
+    bottom: 13px;
+    font-family: 'Roboto',sans-serif;
+}
+.dic{
+    color: orange;
+}
+.lib{
+    font-size: 11px;
+}
+.play{
+    font-size:11px ;
+}
+.name{
+    position: relative;
+    color: white;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    top: 5px;
+}
+.star{
+    color: white;
+    font-size: 15px;
+    letter-spacing: normal;
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    position: relative;
+    margin: 0;
+    top: 7px;
+}
+.profile{
+    width: 218px;
+    height: 52px;
+    background-color: #3d3d3dc7;
+    position: relative;
+    left: 79%;
+    bottom: 16px;
+    border-radius: 30px;
+}
+.profile>p{
+    position: relative;
+    left: 63px;
+}
+.notification{
+    position: relative;
+    left: 74%;
+    top: 45px;
+}
+.bord{
+    position: relative;
+    width: 1288px;
+    height: 70px;
+    /* background-color: white; */
+    bottom: 7px;
+    left: 124px;
+    margin: auto;
+    padding: 0;
+}
+.left_bord{
+    position: relative;
+    width: 246px;
+    height: 710px;
+    bottom: 71px;
+    /* background-color: white; */
+    margin: -6px;
+}
+input[type="text"]{
+    position: relative;
+    width: 630px;
+    height: 44px;
+    left: 4%;
+    top: 40px;
+    background-color: rgba(40, 40, 40, 0.82);
+    border-radius: 10px;
+    border-style: none;
+    font-family: 'Roboto', sans-serif;
+    font-size:15px;
+    outline: none;
+}
+.poster{
+    position: relative;
+    bottom: 629px;
+    left: 18%;
+    width: 60%;
+    margin: 0;
+    padding: 0;
+}
+.text{
+    margin: 0;
+    position: relative;
+    bottom: 17px;
+    left: 95px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    color: white;
+    letter-spacing: 5px;
+}
+.logo{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: 55px;
+    top: 30px;
+    left: 20px;
+
+}
+input::placeholder{
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.347);
+    font-family: 'Roboto', sans-serif;
+}
+input[type="text"]:focus{
+    transition: 0.5s ease-out;
+    background-color: #707070d9;
+}
+p:hover{
+    transition: 0.5s ease-out;
+    color: white;
+    cursor: pointer
+}
+.lib:hover{
+    color: #656565;
+}
+.play:hover{
+    color: #656565;
+}
+.play-all:hover{
+    background-color: white;
+    color: #000000;
+}
+.Popular:hover{
+    color: #ffffff;
+}
+#show:hover{
+    background-color: white;
+    color: black;
+}
+.profile:hover{
+    transition: 0.5s ease-out;
+    background-color: white;
+}
+.profile>p{
+    color: black;
+}
+.al-bord1:hover{
+    transition: 0.5s ease-out;
+    box-shadow:0px 0px 13px white;
+}
+.al-bord2:hover{
+    transition: 0.5s ease-out;
+    box-shadow:0px 0px 13px white;
+}
+.al-bord3:hover{
+    transition: 0.5s ease-out;
+    box-shadow:0px 0px 13px white;
+}.al-bord4:hover{
+    transition: 0.5s ease-out;
+    box-shadow:0px 0px 13px white;
+}
