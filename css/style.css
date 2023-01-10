@@ -2,12 +2,10 @@ body{
     background: rgb(0,0,0);
     background: linear-gradient(113.82deg, #000000 0%, #1A1A1A 96.93%);
     overflow-x:hidden ;
-    overflow-y: hidden;
+    overflow-y: scroll;
+    height: 70px;
 }
-.albums-bord{
-    margin: 0;
-    padding: 0;
-}
+
 p{
     color: #656565;
     position: relative;
@@ -57,7 +55,7 @@ p{
 .music{
     position: relative;
     left: 17%;
-    bottom:1665px ;
+    bottom:1033px ;
 }
 .title-music>p{
     display: inline-flex;
@@ -95,6 +93,11 @@ p{
     padding: 6px 6px;
     line-height: 27px;
 }
+.albums-bord{
+    position: relative;
+    top: 20%;
+    height: 344px;
+}
 #footer>p{
     position: relative;
     color: white;
@@ -130,16 +133,49 @@ p{
 }
 .Popular{
     position: relative;
-    bottom: 1618px;
+    bottom: 991px;
     left: 19%;
     color: white;
+}
+img{
+    position: relative;
+    top: 8%;
+    left: 15px;
+    border-radius: 5px;
+}
+.al-bord1>p{
+    position: relative;
+    top: 9px;
+    left: 20px;
+    color: white;
+    line-height: 2px;
+}
+.al-bord2>p{
+    position: relative;
+    top: 9px;
+    left: 20px;
+    color: white;
+    line-height: 2px;
+}
+.al-bord3>p{
+    position: relative;
+    top: 9px;
+    color: white;
+    left: 20px;
+    line-height: 2px;
+}.al-bord4>p{
+    position: relative;
+    top: 9px;
+    color: white;
+    left: 20px;
+    line-height: 2px;
 }
 .play-all{
     font-family: 'Montserrat', sans-serif;
     padding: 6px 11px;
     font-size: 12px;
     position: relative;
-    bottom: 1660px;
+    bottom: 1033px;
     color:rgb(0, 0, 0);
     background-color: #FF8202;
     border-radius: 8px;
