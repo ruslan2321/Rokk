@@ -2,7 +2,6 @@ body{
     background: rgb(0,0,0);
     background: linear-gradient(113.82deg, #000000 0%, #1A1A1A 96.93%);
     overflow-x:hidden ;
-    overflow-y: scroll;
     height: 70px;
 }
 
