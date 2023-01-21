@@ -249,7 +249,6 @@ img{
     width: 246px;
     height: 710px;
     bottom: 71px;
-    /* background-color: white; */
     margin: -6px;
 }
 input[type="text"]{
@@ -293,7 +292,7 @@ input[type="text"]{
 
 }
 input::placeholder{
-    font-size: 15px;
+    font-size: 17px;
     color: rgba(255, 255, 255, 0.347);
     font-family: 'Roboto', sans-serif;
 }
