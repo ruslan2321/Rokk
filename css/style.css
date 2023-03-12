@@ -23,6 +23,7 @@ p{
     bottom: 0px;
     margin: 0px;
     border-radius:20px ;
+    transition: all 0.5s ease-in-out;
 }
 .al-bord2{
     width: 200px;
@@ -32,6 +33,7 @@ p{
     left: 35%;
     bottom: 230px;
     border-radius:20px ;
+    transition: all 0.5s ease-in-out;
 }
 .al-bord3{
     width: 200px;
@@ -41,6 +43,7 @@ p{
     left: 53%;
     bottom: 460px;
     border-radius:20px ;
+    transition: all 0.5s ease-in-out;
 }
 .al-bord4{
     width: 200px;
@@ -50,6 +53,7 @@ p{
     left: 71%;
     bottom: 690px;
     border-radius:20px ;
+    transition: all 0.5s ease-in-out;
 }
 .music{
     position: relative;
